@@ -9,7 +9,7 @@
 
 ### Exemplo para somar 1 e imprimir cada elemento de uma lista de inteiros:
 
-`for(int numero: numeros){  
-     numero = numero + 1;  
-     System.out.println(numero);  
+`for(int numero: numeros){<br />
+     numero = numero + 1;<br />  
+     System.out.println(numero);<br />  
  }`
