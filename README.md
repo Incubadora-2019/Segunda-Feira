@@ -7,7 +7,7 @@
 
 > Para percorrer uma lista no java e fazer uma operação com cada elemento da lista, temos uma estrutura pronta: **ForEach**
 
-### Exemplo para somar 1 e imprimir cada elemento de uma lista de inteiros:
+#### Exemplo para somar 1 e imprimir cada elemento de uma lista de inteiros:
 
 `for(int numero: numeros){   
      numero = numero + 1;    
