@@ -371,6 +371,20 @@ do {
 	System.out.println(“Valor de X: “ + x);
 	++x;
 } while ( x <= 7 )
+
+
+while( condição ) {
+	//bloco de cdigo	
+}
+
+int i = 0;
+
+while( i < 10 ) {
+	
+	System.out.println(“Valor de i: “ + i);
+	i++;
+}
+
 ```
 
 ### Retirado do curso do Professor Nelio Alves
