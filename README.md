@@ -374,7 +374,7 @@ do {
 ```
 
 ### Retirado do curso do Professor Nelio Alves
-[Curso da Udemy](https://www.udemy.com/course/java-curso-completo/)
+[Curso da Udemy](https://www.udemy.com/course/java-curso-completo/)/n
 [GitHub do Professor](https://github.com/acenelio)
 
 ### Tip of the day
