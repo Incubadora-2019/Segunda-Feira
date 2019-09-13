@@ -4,53 +4,50 @@
 
 ### Operadores artméticos
 
-C, C++, Java, C#…
-
 ```
 Operador	Significado
-+			adição
--			subtração
-*			multiplicação
-/			divisão
-%			mod (resto da divisão)
++		adição
+-		subtração
+*		multiplicação
+/		divisão
+%		mod (resto da divisão)
 ```
 
->Precedência
+Precedência
 
->1 → * / %
->2 → + -
+1 → * / %
+2 → + -
 
->Exemplos
+#### Exemplos
 
->2 * 6 / 3 = 4
->3 + 2 * 4 = 11
->(3 + 2) * 4 = 20
->60 / (3+2) * 4 = 48
->60 * ((3.067 + 1.2) / 2) 
+2 * 6 / 3 = 4
+3 + 2 * 4 = 11
+(3 + 2) * 4 = 20
+60 / (3+2) * 4 = 48
+60 * ((3.067 + 1.2) / 2) 
 
->6 % 2 = 0
->6 % 4 = 2
->19 % 5 = 4
->14 % 3 = 2
+6 % 2 = 0
+6 % 4 = 2
+19 % 5 = 4
+14 % 3 = 2
 
 ### Nome de variáveis
 
->int 3 séries de 10 repetições;
->int _3 séries de 10 repetições;
->int _3 series de 10 repeticoes;
->int _3seriesdenaoentendinada10repeticoes;
->int  SeriesDeNaoEntendiNadaComAlgumasRepeticoesSemNumeroNaFrente;
->double melhorAindaEhSemNumeroNaFrente;
->boolean mas_tem_gente_que_prefere_snake_case;
->String everInEnglishPlease = ‘If seu English not is much good, só try!’
+int 3 séries de 10 repetições;
+int _3 séries de 10 repetições;
+int _3 series de 10 repeticoes;
+int _3seriesdenaoentendinada10repeticoes;
+int  SeriesDeNaoEntendiNadaComAlgumasRepeticoesSemNumeroNaFrente;
+double melhorAindaEhSemNumeroNaFrente;
+boolean mas_tem_gente_que_prefere_snake_case;
+String everInEnglishPlease = ‘If seu English not is much good, só try!’
 
 ### Declaração de variáveis
-
-`<tipo> <nomeDaVariavel> = <valor inicial>;`
-
-
-`char intEhONumeroDaVida = ‘42’;`
-`double sempreEstejaComSuasToalhas = 3.1415`
+```
+<tipo> <nomeDaVariavel> = <valor inicial>;
+char intEhONumeroDaVida = ‘42’;
+double sempreEstejaComSuasToalhas = 3.1415
+```
 
 ### Tipos primitivos
 
