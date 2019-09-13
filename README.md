@@ -4,14 +4,16 @@
 
 ### Operadores artméticos
 
->C, C++, Java, C#…
+C, C++, Java, C#…
 
 Operador	Significado
-'+'			adição
-'-'			subtração
-'*'			multiplicação
-'/'			divisão
-'%'			mod (resto da divisão)
+```
++			adição
+-			subtração
+*			multiplicação
+/			divisão
+%			mod (resto da divisão)
+```
 
 >Precedência
 
