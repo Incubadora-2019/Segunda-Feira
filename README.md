@@ -6,8 +6,8 @@
 
 C, C++, Java, C#…
 
-Operador	Significado
 ```
+Operador	Significado
 +			adição
 -			subtração
 *			multiplicação
