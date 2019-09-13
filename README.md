@@ -7,9 +7,9 @@
 >C, C++, Java, C#…
 
 >Operador	Significado
->. +			adição
->  -			subtração
->, *			multiplicação
+>'+'			adição
+>'-'			subtração
+>'*'			multiplicação
 >- /			divisão
 >/ %			mod (resto da divisão)
 
