@@ -20,7 +20,7 @@ Exercícios sobre Estrutura Sequencial (entrada, processamento, saída)<br />
 
 [Correção01 git](https://github.com/acenelio/nivelamento-java/blob/master/src/uri1003.java)
 ```
-Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números<br />
+Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números
  com uma
 mensagem explicativa, conforme exemplos.
 
@@ -50,7 +50,7 @@ SOMA = 0
 
 [Correção02 git](https://github.com/acenelio/nivelamento-java/blob/master/src/uri1002.java)
 ```
-Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste<br />
+Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste
  círculo com quatro
 casas decimais conforme exemplos.
 Fórmula da área: area = π . raio 2
@@ -77,7 +77,7 @@ A=70685.7750
 
 [Correção03 git](https://github.com/acenelio/nivelamento-java/blob/master/src/uri1012.java)
 ```
-Fazer um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em<br /> 
+Fazer um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em 
 seguida, calcule e
 mostre:
 a) a área do triângulo retângulo que tem A por base e C por altura.
@@ -156,11 +156,11 @@ Saída: PAR
 
 [Correção03 git](https://github.com/acenelio/nivelamento-java/blob/master/src/uri1041.java)
 ```
-Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em<br />
- um plano. A seguir, determine qual o quadrante ao qual pertence o ponto, ou se está sobre um dos<br />
- eixos cartesianos ou na origem (x = y = 0). Se o ponto estiver na origem, escreva a mensagem<br />
- “Origem”. Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a<br />
- situação. 
+Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto
+ em um plano. A seguir, determine qual o quadrante ao qual pertence o ponto, ou se está sobre
+ um dos eixos cartesianos ou na origem (x = y = 0). Se o ponto estiver na origem, escreva a 
+mensagem “Origem”. Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou 
+“Eixo Y”, conforme for a situação. 
 
 Exemplos: 
 Entrada:  4.5  -2.2
@@ -185,9 +185,9 @@ Saída: Origem
 
 [Correção01 git](https://github.com/acenelio/nivelamento-java/blob/master/src/uri1114.java)
 ```
-Escreva um programa que repita a leitura de uma senha até que ela seja válida. Para cada leitura<br />
- de senha incorreta informada, escrever a mensagem "Senha Invalida". Quando a senha for informada<br />
- corretamente deve ser impressa a mensagem "Acesso Permitido" e o algoritmo encerrado. Considere<br />
+Escreva um programa que repita a leitura de uma senha até que ela seja válida. Para cada leitura
+ de senha incorreta informada, escrever a mensagem "Senha Invalida". Quando a senha for informada
+ corretamente deve ser impressa a mensagem "Acesso Permitido" e o algoritmo encerrado. Considere
  que a senha correta é o valor 2002. 
 
 Exemplo: 
@@ -207,10 +207,10 @@ Acesso Permitido
 
 [Correção02 git](https://github.com/acenelio/nivelamento-java/blob/master/src/uri1115.java)
 ```
-Escreva um programa para ler as coordenadas (X,Y) de uma quantidade indeterminada de pontos no<br />
- sistema cartesiano. Para cada ponto escrever o quadrante a que ele pertence. O algoritmo será<br />
- encerrado quando pelo menos uma de duas coordenadas for NULA (nesta situação sem escrever<br />
- mensagem alguma). 
+Escreva um programa para ler as coordenadas (X,Y) de uma quantidade indeterminada de pontos
+ no sistema cartesiano. Para cada ponto escrever o quadrante a que ele pertence. O algoritmo
+ será encerrado quando pelo menos uma de duas coordenadas for NULA (nesta situação sem
+ escrever mensagem alguma). 
 
 Exemplo: 
 Entrada:  
@@ -230,12 +230,12 @@ segundo
 
 [Correção03 git](https://github.com/acenelio/nivelamento-java/blob/master/src/uri1134.java)
 ```
-Um Posto de combustíveis deseja determinar qual de seus produtos tem a preferência de seus<br />
- clientes. Escreva um algoritmo para ler o tipo de combustível abastecido (codificado da seguinte<br />
- forma: 1.Álcool 2.Gasolina 3.Diesel 4.Fim). Caso o usuário informe um código inválido<br />
- (fora da faixa de 1 a 4) deve ser solicitado um novo código (até que seja válido). O programa<br />
- será encerrado quando o código informado for o número 4. Deve ser escrito a mensagem:<br /> 
-"MUITO OBRIGADO" e a quantidade de clientes que abasteceram cada tipo de combustível, conforme exemplo. 
+Um Posto de combustíveis deseja determinar qual de seus produtos tem a preferência de seus clientes.
+ Escreva um algoritmo para ler o tipo de combustível abastecido (codificado da seguinte forma:
+ 1.Álcool 2.Gasolina 3.Diesel 4.Fim). Caso o usuário informe um código inválido (fora da faixa
+ de 1 a 4) deve ser solicitado um novo código (até que seja válido). O programa será encerrado
+ quando o código informado for o número 4. Deve ser escrito a mensagem: "MUITO OBRIGADO" e a
+ quantidade de clientes que abasteceram cada tipo de combustível, conforme exemplo. 
 
 Exemplo: 
 Entrada: 
@@ -262,8 +262,8 @@ Diesel: 0
 
 [Correção01 git](https://github.com/acenelio/nivelamento-java/blob/master/src/uri1067.java)
 ```
-Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 até X, um valor<br />
- por linha, inclusive o X, se for o caso. 
+Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 até X, um valor por
+ linha, inclusive o X, se for o caso. 
 
 Exemplo: 
 Entrada:  8
@@ -278,10 +278,10 @@ Saída:
 
 [Correção02](https://github.com/acenelio/nivelamento-java/blob/master/src/uri1072.java)
 ```
-Leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que serão lidos<br />
- em seguida. Mostre quantos destes valores X estão dentro do intervalo [10,20] e quantos estão<br />
- fora do intervalo, mostrando essas informações conforme exemplo (use a palavra "in" para<br />
- dentro do intervalo, e "out" para fora do intervalo). 
+Leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que serão lidos
+ em seguida. Mostre quantos destes valores X estão dentro do intervalo [10,20] e quantos
+ estão fora do intervalo, mostrando essas informações conforme exemplo (use a palavra "in"
+ para dentro do intervalo, e "out" para fora do intervalo). 
 
 Exemplo: 
 
@@ -301,9 +301,9 @@ Saída:
 
 [Correção03 git](https://github.com/acenelio/nivelamento-java/blob/master/src/uri1143.java)
 ```
-Fazer um programa para ler um número inteiro positivo N. O programa deve então mostrar na tela<br />
- N linhas, começando de 1 até N. Para cada linha, mostrar o número da linha, depois o quadrado<br />
- e o cubo do valor, conforme exemplo. 
+Fazer um programa para ler um número inteiro positivo N. O programa deve então mostrar na
+ tela N linhas, começando de 1 até N. Para cada linha, mostrar o número da linha, depois o
+ quadrado e o cubo do valor, conforme exemplo. 
 
 Exemplo: 
 Entrada:  5
