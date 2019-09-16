@@ -1,5 +1,5 @@
 #Exercícios obtidos do curso do Professor Nelio Alvez, compre o curso dele, é muito bom!
-
+```
 
 ##Curso Java Completo
 [Educando Web](http://educandoweb.com.br)
@@ -9,7 +9,7 @@ Exercícios sobre Estrutura Sequencial (entrada, processamento, saída)
 * Exercícios obtidos do [URI Online Judge](www.urionlinejudge.com.br)
 
 [Exercício resolvido](https://www.youtube.com/watch?v=Ah1Y6d6deq0)
-
+```
 ##Exercícios propostos:
 
 ###Exercício 01
